@@ -1,0 +1,17 @@
+Flask
+Flask-Cors
+h5py
+keras
+
+
+numpy==1.22.2
+rsa
+scikit-learn
+scipy
+six
+tensorboard
+tensorflow
+termcolor
+torch
+typing_extensions
+pandas
